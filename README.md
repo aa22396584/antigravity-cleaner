@@ -1,5 +1,10 @@
 # Antigravity Cleaner
 
+> **Development home:** https://github.com/ImL1s/antigravity-cleaner  
+> Please open issues and pull requests there.  
+> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/antigravity-cleaner) · [GitLab](https://gitlab.com/aa22396584/antigravity-cleaner)
+
+
 <p align="center">
   <strong>A cross-platform CLI tool for cleaning up development environment caches and build artifacts.</strong>
 </p>
