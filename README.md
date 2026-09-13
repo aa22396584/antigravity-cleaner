@@ -8,6 +8,8 @@ https://github.com/aa22396584/antigravity-cleaner
 [Codeberg](https://codeberg.org/ImL1s/antigravity-cleaner)
 
 
+> **Why this GitHub home?** Public development moved here from [`ImL1s/antigravity-cleaner`](https://github.com/ImL1s/antigravity-cleaner) because that GitHub account is currently restricted (anonymous visitors get 404 on the profile and many assets). This is the same project. Please open Issues and Pull Requests here.
+
 <p align="center">
   <strong>A cross-platform CLI tool for cleaning up development environment caches and build artifacts.</strong>
 </p>
