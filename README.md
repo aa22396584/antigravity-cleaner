@@ -1,8 +1,11 @@
 # Antigravity Cleaner
 
-> **Development home:** https://github.com/ImL1s/antigravity-cleaner  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/antigravity-cleaner) · [GitLab](https://gitlab.com/aa22396584/antigravity-cleaner)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/antigravity-cleaner
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/antigravity-cleaner) ·
+[Codeberg](https://codeberg.org/ImL1s/antigravity-cleaner)
 
 
 <p align="center">
